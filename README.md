@@ -19,8 +19,8 @@ NationiSScanner — это высокопроизводительный сете
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/UltraScanner.git
-   cd UltraScanner
+   git clone https://github.com/nationi/NationiSScanner.git
+   cd NationiSScanner
    ```
 
 2. **Установите необходимые зависимости:**
